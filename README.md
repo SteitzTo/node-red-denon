@@ -32,7 +32,7 @@ I think it works also wiht other Denon AVR Models.
 
 How it works:
 
-If you say: "Alexa turn Denon on"  -->   Denon Receiver is switched on<br>
+If you say: "Alexa turn Denon on"  -->   Denon Receiver is switched on and set volume to 20<br>
 
 If you say: "Alexa switch Denon input to ..." -->   Denon Receiver is switched the input channel ...  (in my example TV, Game, PC , Bluetooth)<br>
 
