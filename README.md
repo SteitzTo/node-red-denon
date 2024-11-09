@@ -22,7 +22,7 @@ My Denon Receiver is a AVR-X3700H.  You can control it via Telnet and Webinterfa
 
 For my implementation i use the Denon AVR-Control Protocol.
 
-I think it works also wiht other Denon AVR Models.
+I think it works also with other Denon AVR Models.
 
 ----------------------------------------------------
 
@@ -41,7 +41,7 @@ If you say: "Alexa switch Denon volume to ..." --> Denon Receiver is set to Volu
 If you say: "Alexa turn Denon off" -->   Denon Receiver is switched off<br>
 
 
-
-If you want to use it too: have fun with it.
+-----------------------------------------------------------------------
+If you want to use it: have fun with it.
 
 Torsten
