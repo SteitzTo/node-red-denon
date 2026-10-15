@@ -27,7 +27,8 @@ I think it works also with other Denon AVR Models.
 ----------------------------------------------------
 
 
-<img width="1121" height="619" alt="Zwischenablage_10-15-2026_01" src="https://github.com/user-attachments/assets/652f8f86-0e21-4e73-86d9-886c26918a86" />
+<img width="1104" height="619" alt="Zwischenablage_10-15-2026_01" src="https://github.com/user-attachments/assets/b187670b-60c9-4c4c-956a-7c1b1003cc7f" />
+
 
 
 
@@ -38,7 +39,7 @@ If you say: "Alexa, turn Denon on"  -->   Denon Receiver is switched on and set 
 
 If you say: "Alexa, switch Denon input to ..." -->   Denon Receiver is switched the input channel ...  (in my example TV, Game, PC , Bluetooth)<br>
 
-If you say: "Alexa, switch Denon volume to ..." --> Denon Receiver is set to Volume ... (i implement 0 - 70)<br>
+If you say: "Alexa, switch Denon volume to ..." --> Denon Receiver is set to Volume ... (0 - 90)<br>
                                              
 If you say: "Alexa, turn Denon off" -->   Denon Receiver is switched off<br>
 
