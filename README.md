@@ -8,7 +8,7 @@ The Denon implementaion of Alexa is not so good and i want more control of the r
 ## Dependencies:
 
 
-[node-red-contrib-denon](https://flows.nodered.org/node/node-red-contrib-denon)
+[node-red-contrib-denon-sxp](https://flows.nodered.org/node/node-red-contrib-denon-sxp)
 
 [node-red-contrib-virtual-smart-home](https://flows.nodered.org/node/node-red-contrib-virtual-smart-home)
 
@@ -26,7 +26,9 @@ I think it works also with other Denon AVR Models.
 
 ----------------------------------------------------
 
-![Zwischenablage_12-02-2024_01](https://github.com/user-attachments/assets/caa911ca-650d-4a0c-a91f-43af3001b490)
+
+<img width="1121" height="619" alt="Zwischenablage_10-15-2026_01" src="https://github.com/user-attachments/assets/652f8f86-0e21-4e73-86d9-886c26918a86" />
+
 
 
 
